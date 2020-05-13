@@ -1,0 +1,38 @@
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: verdana;
+  text-align: center;
+}
+h2 {
+  color: verdana;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+  text-align: center;
+}
+p {
+  font-family: verdana;
+  font-size: 20px;
+  text-align: center;
+}
+ul {
+  font-family: verdana;
+  font-size: 20px;
+  text-align: center;
+}
+li {
+  color: verdana;
+  text-align: center;
+}
+div.gallery {
+  background-image: url(/images/Eileen.jpg);
+  background-repeat: no-repeat;
+  width: 10px;
+  height: 20px;
+}
