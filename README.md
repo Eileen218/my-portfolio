@@ -19,13 +19,6 @@ file:///C:/Users/Hp%20430/my-portfolio/index.html
 
 * [HTML5](https://github.com/topics/html5)
 * [CSS](https://github.com/topics/css3)
-* [Bootstrap](https://github.com/topics/bootstrap)
-* [jQuery](https://github.com/topics/javascript)
-* markdown
-
-
-
-
 
 ## License
 * *MIT License:*
