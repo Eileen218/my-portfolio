@@ -9,7 +9,7 @@
 This project is a web application that talks about me and what i am learning.
 
 ## Screenshot
-<img src="https://raw.githubusercontent.com/Owiti-Charles/Delani-Studio/master/images/delanihome.png" width="900px" height="440px">
+<img src="webpage.png" width="900px" height="440px">
 
 ## Live Page
 file:///C:/Users/Hp%20430/my-portfolio/index.html
