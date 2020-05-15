@@ -12,13 +12,13 @@ This project is a web application that talks about me and what i am learning.
 <img src="webpage.png" width="900px" height="440px">
 
 ## Live Page
-file:///C:/Users/Hp%20430/my-portfolio/index.html
+https://eileen218.github.io/my-portfolio/
 
 
 ## Technologies Used
 
-* [HTML5](https://github.com/topics/html5)
-* [CSS](https://github.com/topics/css3)
+* [HTML5]
+* [CSS]
 
 ## License
 * *MIT License:*
