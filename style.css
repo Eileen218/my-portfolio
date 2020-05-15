@@ -30,9 +30,4 @@ li {
   color: verdana;
   text-align: center;
 }
-div.gallery {
-  background-image: url(/images/Eileen.jpg);
-  background-repeat: no-repeat;
-  width: 10px;
-  height: 20px;
-}
+
